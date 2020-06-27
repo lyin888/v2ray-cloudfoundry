@@ -1,5 +1,5 @@
 applications:
 - path: .
-  name: lyin
+  name: lyin1
   random-route: true
   memory: 256M
